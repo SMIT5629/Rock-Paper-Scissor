@@ -15,5 +15,3 @@ A classic Rock Paper Scissors game built using HTML, CSS, and JavaScript. Challe
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## 📂 Project Structure
